@@ -146,5 +146,3 @@ The Coffee Chain dataset contains information on product sales, profits, marketi
 - **Version Control:** GitHub  
 
 ---
-
-# 📂 Repository Structure
